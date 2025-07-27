@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HaseebAli0103
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning Linux
+- 👋 Hi, I’m Haseeb Ali.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning Linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
